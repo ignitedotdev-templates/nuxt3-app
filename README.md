@@ -2,6 +2,19 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+## Deploy Site Config
+
+```bash
+# root directory
+src or ./
+
+# build command
+npm run generate
+
+# build directory
+dist
+```
+
 ## Setup
 
 Make sure to install the dependencies:
