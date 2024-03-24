@@ -9,7 +9,7 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 src or ./
 
 # build command
-npm run generate
+npm install && npm run generate
 
 # build directory
 dist
