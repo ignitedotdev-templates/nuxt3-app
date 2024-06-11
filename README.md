@@ -6,7 +6,7 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 
 ```bash
 # root directory
-src or ./
+/
 
 # build command
 npm install && npm run generate
